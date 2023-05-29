@@ -1,3 +1,1 @@
 sa as
-v=spf1 include:_spf.mailersend.net ~all
-v=DKIM1;t=s;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDl+Yc8wzLaCPNrbliPfmy6vG4ZYjg9stxXZHsDRaKOh8bkhcji/k7HA/dWxJ3UZHaVe3FxbPto1BLVuhMVGD7V2BTxFQcAytfmELqRGb+HSYkFzfTfx11SBAOvNkgomVpu+iWzmt21P/NqjEQHg43TCQcjTl6Yuordd9q8qGRERwIDAQAB
